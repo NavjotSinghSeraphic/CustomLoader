@@ -1,5 +1,6 @@
-ScreenShot
-![image](https://github.com/NavjotSinghSeraphic/CustomLoader/assets/139829903/2aef2da1-7ebf-4056-b49b-bb152d5d20d0)
+Gif
+
+![loader-ezgif com-crop](https://github.com/NavjotSinghSeraphic/CustomLoader/assets/139829903/1d37871e-2aa7-4f9f-a164-717dab10c02e)
 
 Add this to your project build.gradle (for older versions only)
       
@@ -9,6 +10,7 @@ Add this to your project build.gradle (for older versions only)
                 maven { url 'https://jitpack.io }
             }
         }
+
 
 Add this to your settings.gradle(for newer versions only)
 
